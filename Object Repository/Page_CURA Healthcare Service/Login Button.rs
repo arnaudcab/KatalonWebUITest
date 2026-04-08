@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Login Button</name>
+   <tag></tag>
+   <elementGuidId>baa3a9ba-9cc8-4830-beda-be176343beff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'profile.php#login']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;profile\.php\#login&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e8354a5f-785d-4033-be4d-aa9a13cd93da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>profile.php#login</value>
+      <webElementGuid>32064b05-4bbf-4266-9cab-560bff9780fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>$('#menu-close').click();</value>
+      <webElementGuid>4259b5dc-e434-4ee8-97e3-06279bdec4b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>2d0bcc15-cd80-4f21-a099-28b95e3aa390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7bf1ef22e954ebd77cdc3ad6f4ff3cef</value>
+      <webElementGuid>527d8e1f-ee58-45e0-b831-baff0e218e3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'profile.php#login']</value>
+      <webElementGuid>40b21754-2c69-466a-a645-89cd9b5c49d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'profile.php#login']</value>
+      <webElementGuid>6d686005-2e7e-48ca-be52-8b5b1cf1d8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'profile.php#login' and (text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>0df3fb45-e615-4b34-bf6d-0a4430b49900</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
