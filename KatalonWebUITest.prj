@@ -6,11 +6,12 @@
    <UUID>b63cf6bc-14b2-4ad4-a861-b96c4d78b2e6</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>11.0.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>11.0.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/arnaud/git/KatalonWebUITest/KatalonWebUITest.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
